@@ -1,0 +1,13 @@
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.deps.json
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.json
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.dev.json
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.dll
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.pdb
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csproj.AssemblyReference.cache
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfoInputs.cache
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfo.cs
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.dll
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.pdb
+/Users/neha.melville/Desktop/Repo/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.genruntimeconfig.cache
